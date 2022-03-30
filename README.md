@@ -1,8 +1,6 @@
 
 <h3 align="center">Developer, eternal student and enthusiast of the Web3 ecossystem.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosgaius" alt="marcosgaius" /></a> </p>
-
 - 💻 Discord: **Coda#5800**
 
 - 📫 How to reach me: **gaiusmarcos@protonmail.com**
