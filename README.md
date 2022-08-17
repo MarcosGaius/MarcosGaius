@@ -1,5 +1,5 @@
 
-<h3 align="center">Developer, eternal student and enthusiast of the Web3 ecossystem.</h3>
+<h3 align="center">Developer, eternal student and enthusiast of the Web3 ecosystem.</h3>
 
 - 💻 Discord: **Coda#5800**
 
