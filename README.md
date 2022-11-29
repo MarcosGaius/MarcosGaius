@@ -1,4 +1,4 @@
-<h3 align="center">Front-end developer, building at the Web3. Trying to make today better than yesterday.</h3>
+<h3 align="center">Full-stack Developer building at Web3. Trying to make today better than yesterday.</h3>
 
 - 💻 Discord: **Coda#5800**
 
