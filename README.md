@@ -1,8 +1,6 @@
-<h3 align="center">Full-stack Developer building at Web3. Trying to make today better than yesterday.</h3>
+<h3 align="center">Full-stack Developer</h3>
 
-- 💻 Discord: **Coda#5800**
-
-- 📫 How to reach me: **gaiusmarcos@protonmail.com**
+- 📫 How to reach me: **gaiusmarcos@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
