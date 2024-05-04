@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Marcos Gaius</h1>
 <h3 align="center">I get stuff done, that's it 🤘</h3>
 <h4 align="center">Currently, seeking to improve markets by leveraging blockchain</h4>
-<h5 align="center">Learn more: <a href="infinityweb3.com" target="blank">infinityweb3.com</a></h5>
+<h5 align="center">Learn more: <a href="https://infinityweb3.com" target="_blank">infinityweb3.com</a></h5>
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marcos-gaius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-gaius" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcos-gaius" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-gaius" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">I work mainly with:</h3>
